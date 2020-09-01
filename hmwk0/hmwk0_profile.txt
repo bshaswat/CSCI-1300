@@ -1,0 +1,11 @@
+——Student Profile——
+
+Name: Shaswat Bhattarai
+
+Major/minor: Explorary Studies
+
+Programming experience: Little bit of C++
+
+What do you expect to learn in this course?
+Leaen how to code in C++ fluently and able to make my own programs using my idea.
+
