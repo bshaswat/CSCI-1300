@@ -16,3 +16,4 @@ int main(){
     int purchase_price_cents = num_of_stamps * 55;
     return 0;
 }
+
