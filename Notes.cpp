@@ -1,16 +1,15 @@
-// Week 1
+// ----------Week 1----------
 
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
 
 /*
 int main(){
     cout << "Hello Sections 300 and 350!\n " << endl;
     return 0;
 }
-*/
 
-/* int main(){
+int main(){
      
     int initial_money = 0;
     cout << "Please enter money: ";
@@ -62,6 +61,9 @@ int main(){
     return 0;
 }
 */
+
+
+// ----------Week 2------------ 
 
 #include <iostream>
 using namespace std;
