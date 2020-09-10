@@ -188,3 +188,42 @@ int main(){
     // Note: the value of the variable incremented (intA) is the same in both situations    
     return 0;
 }
+
+char initial = '!';
+
+string name = "csci 1300";
+
+// bool can hold one value: 0 or 1
+int main(){
+    bool var1;
+    var1 = true;
+    int x = 3;
+    int y=7;
+
+    var1 = (x!=y);
+    var1 = (x!=y) && (x<5);
+    var1 = (x!=y) || (x<5);
+    return 0;
+}
+
+#include <iostream>
+using namespace std;
+int main(){
+    int floor;
+    cout << "ENter the desired floor: " << endl;
+    cin >> floor;
+    int actual_floor;
+    // floor = 13;
+    // if block
+    if(floor > 13){
+        // floor = floor -1;
+        floor --;
+    }
+    // else block
+    // }else{
+       // actual_floor = floor;
+    // }
+     cout << " floor: " << floor << endl;
+
+return 0;
+}
